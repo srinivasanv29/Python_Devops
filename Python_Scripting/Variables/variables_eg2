@@ -1,0 +1,9 @@
+# Global variable; Variables defined outside the function has global scope 
+
+y = 20
+
+def new_function():
+    print(y)
+
+new_function()
+print(y)
