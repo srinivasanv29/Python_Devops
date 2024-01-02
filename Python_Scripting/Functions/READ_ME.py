@@ -32,3 +32,23 @@ print(mul(10, 5))
 # writing an api for aws, jira, github api.. making any http request.. python package index (PYPI)
 # https://pypi.org/search/?q=boto3  // You can use this link to search the package to install for AWS, Jira or any api or software associated to python.
 
+# search "aws" in above link
+# when you are dealing with docker - to download dockjer image or docker pull image $ pip install jira ; $ pip install boto3 ; pip install github
+
+
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment (on Windows)
+myenv\Scripts\activate
+
+# Activate the virtual environment (on macOS/Linux)
+source myenv/bin/activate
+
+
+
+
+$ pip install boto3
+$ pip install jira
+$ pip list | grep  jira
+$ pip list | grep boto3 
