@@ -1,0 +1,34 @@
+# Dictionaries and Key value Pairs
+# Sets
+
+1. list
+2. Tuples
+3. Strings
+4. int
+5. Dictionary 
+
+why we need dictionaire in python]
+- when we want to store name of a student in python
+
+name = "srini"
+
+ec2_instance = "instance"
+student_list = [ "Andy", "Sarvan", "Alex", "Ansari" ]
+
+Dictionary means property of a student
+
+name: " "
+id: " "
+class: " "
+age: ""
+
+
+{
+    name:""
+    age:""
+    id:""
+    class:""
+}
+
+What if you have 100 properties ; so we have use above curly braces method to store it as a key value pair. 
+
